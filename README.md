@@ -20,7 +20,3 @@ Our website provides basketball enthusiasts with a platform to easily find or cr
 ## Built With
 
 * [React](https://fr.reactjs.org/)
-
-
-
-
