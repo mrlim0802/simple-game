@@ -21,11 +21,6 @@ Our website provides basketball enthusiasts with a platform to easily find or cr
 
 * [React](https://fr.reactjs.org/)
 
-## Authors
 
-* **Rémy Bernadin** - [Rémy](https://github.com/Remy-B-prog)
-* **Lucas Fasilleau** - [Lucas](https://github.com/madashii)
-* **Jonathan Bonhoure** - [Johnathan](https://github.com/SkullZRulZ)
-* **Léon Versavel** - [Léon](https://github.com/Jesuisleon)
 
 
